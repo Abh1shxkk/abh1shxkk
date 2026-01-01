@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abhishek Chauhan 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer • Laravel Focus • Product-Oriented Backend Engineer</b>
+  <b>Web Developer • Laravel & Backend Focus • Always Building & Improving</b>
 </p>
 
 <p align="center">
@@ -22,72 +22,60 @@
 ---
 
 ### 🚀 About Me
-I build **scalable web platforms, clean REST APIs, dashboards, and full products end-to-end**.  
-Focused on **backend engineering**, system thinking, and long-term maintainability.
+I enjoy creating web applications that are **functional, clean, and useful in real life**.  
+Most of my experience comes from **client projects, freelance work, and college work**,  
+where I worked on **backend logic, dashboards, APIs, and database structures**.
 
-- 4+ years building **production-ready systems**
-- Comfortable taking ideas **from scratch → architecture → deployment**
-- Strong foundations in **D.S.A, DB design, backend patterns**
-- Value **clarity, performance, and the product mindset**
-
----
-
-### 🛠 Tech & Expertise
-
-**Backend & APIs**  
-`Laravel` • `PHP 8+` • `RESTful APIs` • `MySQL` • `PostgreSQL`  
-`Redis` • `MVC` • `Service Layers` • `Repository Pattern`  
-`Caching` • `Queues (Jobs)` • `Webhooks` • `API Auth (JWT/OAuth2)`
-
-**Frontend & UI**  
-`JavaScript (ES6+)` • `React` • `TailwindCSS` • `Alpine.js`  
-`Livewire` • `Blade` • `jQuery (legacy support)`  
-
-**DevOps & Deployment**  
-`Docker` • `NGINX` • `Apache` • `GitHub Actions`  
-`Linux Server Management` • `PM2` • `Vercel` • `Render`
-
-**Architecture Awareness**  
-`Scalable DB Design` • `Indexes & Query Optimization`  
-`Modular Monolith Patterns` • `Event-Driven Flows`  
-`RBAC & Permissions` • `SOLID (practical use)` • `Clean Code`
-
-**Keywords recruiters notice**  
-`Transactions & Rollback` • `Idempotency` • `Rate-Limiting`  
-`Cache Invalidation` • `Pagination Performance` • `Logging`  
-`Monitoring & Observability` • `Billing Integrations`
+I'm currently focused on **improving backend code quality, React integration, and deployment workflows**,  
+while trying to write code that is **maintainable and easy to understand**.
 
 ---
 
-### 📌 Notable Work
+### 🛠 Tech Stack & Skills
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Skills360.ai** | Job marketplace with AI matching, dashboards, resume builder & scalable APIs | Laravel, MySQL, Tailwind, JS |
-| **Medi BillSuite** | Pharma distribution + GST billing, stock mgmt, reporting, RBAC | Laravel, MySQL |
-| **InvoicePro** | Invoicing platform with PDF, tracking, analytics & client mgmt | Laravel, Tailwind |
+**Core Development**  
+`Laravel` • `PHP` • `MySQL` • `JavaScript` • `React (basics)`  
+`TailwindCSS` • `Blade` • `jQuery` • `REST APIs`
 
-> more coming soon…
+**What I can build**  
+- authentication + dashboards  
+- CRUD apps with roles & permissions  
+- APIs for mobile/web usage  
+- responsive UI layouts  
+- clean folder structures & optimized DB queries
 
----
+**Tools & Workflow**  
+`Git` • `GitHub` • `Postman` • `Composer` • `VS Code`  
+`Linux basics` • `Figma to UI handoff`
 
-### 📈 Currently Building / Learning
-- SaaS-style boilerplate with subscriptions, permissions & modular architecture
-- Deeper system design patterns
-- CI/CD pipelines + containerization workflows
-
----
-
-### 🎯 What I Look For
-Products that need:
-- backend strength  
-- clean architecture  
-- performance over patchwork  
-- someone who **thinks beyond CRUD**
+**Currently Improving**  
+- better backend structure & reusable logic  
+- React + Laravel integration  
+- deployments & Docker basics
 
 ---
 
-### 🌍 Connect
+### 📌 Featured Projects
+
+| Project | What I built | Tech |
+|--------|--------------|------|
+| **Skills360.ai** | job platform with dashboards, resume builder & matching filters | Laravel, Tailwind, JS |
+| **Medi BillSuite** | stock + billing system for pharma distributors with GST invoices | Laravel, MySQL |
+| **InvoicePro** | invoicing & expense tracking with PDF download | Laravel, Tailwind |
+
+> more projects are being organized & added...
+
+---
+
+### 🔧 Currently Working On
+- writing cleaner backend code  
+- deploying projects properly  
+- learning frontend patterns with React  
+- contributing to open-source when possible  
+
+---
+
+### 📬 Connect With Me
 <p align="center">
   <a href="mailto:abhichauhan200504@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-FF5F5F?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
   <a href="https://x.com/abh1shxkk"><img src="https://img.shields.io/badge/Follow%20on%20X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -97,5 +85,5 @@ Products that need:
 ---
 
 <p align="center">
-  <i>Backend-leaning product engineer. Always building — always learning.</i>
+  <i>I like learning by building. If you're working on something interesting, reach out.</i>
 </p>
