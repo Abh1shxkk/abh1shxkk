@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="mailto:abhichauhan200504@gmail.com">
+  <a href="mailto:abhichauhan200504@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a target="_blank" href="https://linkedin.com/in/abhishek-chauhan-880496394">
+  <a href="https://linkedin.com/in/abhishek-chauhan-880496394">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a target="_blank" href="https://x.com/abh1shxkk">
+  <a href="https://x.com/abh1shxkk">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a target="_blank" href="https://abhishek-portfolio-kfdk.onrender.com">
+  <a href="https://abhishek-portfolio-kfdk.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-1fdf64?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
@@ -38,7 +38,7 @@ while trying to write code that is **maintainable and easy to understand**.
 `TailwindCSS` • `Blade` • `jQuery` • `REST APIs`
 
 **What I can build**  
-- authentication + dashboards  
+- authentication & dashboards  
 - CRUD apps with roles & permissions  
 - APIs for mobile/web usage  
 - responsive UI layouts  
@@ -67,6 +67,22 @@ while trying to write code that is **maintainable and easy to understand**.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abh1shxkk&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abh1shxkk&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abh1shxkk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 🔧 Currently Working On
 - writing cleaner backend code  
 - deploying projects properly  
@@ -77,9 +93,15 @@ while trying to write code that is **maintainable and easy to understand**.
 
 ### 📬 Connect With Me
 <p align="center">
-  <a href="mailto:abhichauhan200504@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-FF5F5F?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-  <a href="https://x.com/abh1shxkk"><img src="https://img.shields.io/badge/Follow%20on%20X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/abhishek-chauhan-880496394"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhichauhan200504@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-FF5F5F?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+  <a href="https://x.com/abh1shxkk">
+    <img src="https://img.shields.io/badge/Follow%20on%20X-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abhishek-chauhan-880496394">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
