@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:abhichauhan200504@gmail.com">
+  <a target="_blank" href="mailto:abhichauhan200504@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/abhishek-chauhan-880496394">
+  <a target="_blank" href="https://linkedin.com/in/abhishek-chauhan-880496394">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/abh1shxkk">
+  <a target="_blank" href="https://x.com/abh1shxkk">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://abhishek-portfolio-kfdk.onrender.com">
+  <a target="_blank" href="https://abhishek-portfolio-kfdk.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-1fdf64?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
