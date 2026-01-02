@@ -37,21 +37,30 @@ while trying to write code that is **maintainable and easy to understand**.
 `Laravel` • `PHP` • `MySQL` • `JavaScript` • `React (basics)`  
 `TailwindCSS` • `Blade` • `jQuery` • `REST APIs`
 
-**What I can build**  
-- authentication & dashboards  
+**What I can build**
+- authentication + dashboards  
 - CRUD apps with roles & permissions  
 - APIs for mobile/web usage  
 - responsive UI layouts  
-- clean folder structures & optimized DB queries
+- clean folder structures & optimized DB queries  
 
 **Tools & Workflow**  
 `Git` • `GitHub` • `Postman` • `Composer` • `VS Code`  
 `Linux basics` • `Figma to UI handoff`
 
-**Currently Improving**  
+**Currently Improving**
 - better backend structure & reusable logic  
 - React + Laravel integration  
-- deployments & Docker basics
+- deployments & Docker basics  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abh1shxkk&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abh1shxkk&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
@@ -64,22 +73,6 @@ while trying to write code that is **maintainable and easy to understand**.
 | **InvoicePro** | invoicing & expense tracking with PDF download | Laravel, Tailwind |
 
 > more projects are being organized & added...
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abh1shxkk&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abh1shxkk&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abh1shxkk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
