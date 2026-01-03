@@ -20,6 +20,12 @@
 </p>
 
 ---
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abh1shxkk/abh1shxkk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ### 🚀 About Me
 I enjoy creating web applications that are **functional, clean, and useful in real life**.  
