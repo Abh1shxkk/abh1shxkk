@@ -18,11 +18,7 @@
 </p>
 
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abh1shxkk/abh1shxkk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 
@@ -36,6 +32,12 @@ I'm currently focused on **improving backend code quality, React integration, an
 while trying to write code that is **maintainable and easy to understand**.
 
 ---
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abh1shxkk/abh1shxkk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ### 🛠 Tech Stack & Skills
 
