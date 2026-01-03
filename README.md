@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Abhishek Chauhan 👋</h1>
 
-<p align="center">
-  <b>Web Developer • Laravel & Backend Focus • Always Building & Improving</b>
-</p>
+
 
 <p align="center">
   <a href="mailto:abhichauhan200504@gmail.com">
@@ -17,6 +15,13 @@
   <a href="https://abhishek-portfolio-kfdk.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-1fdf64?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
+</p>
+
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abh1shxkk/abh1shxkk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
