@@ -31,8 +31,8 @@ where I worked on **backend logic, dashboards, APIs, and database structures**.
 I'm currently focused on **improving backend code quality, React integration, and deployment workflows**,  
 while trying to write code that is **maintainable and easy to understand**.
 
----
-### 🐍 Contribution Snake
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abh1shxkk/abh1shxkk/output/github-contribution-grid-snake-dark.svg" />
