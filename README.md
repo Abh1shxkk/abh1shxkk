@@ -16,15 +16,34 @@
   <img alt="" src="assets/divider-light.svg" width="100%">
 </picture>
 
-### ✦ About me
+### Hey 👋, I'm Abhishek
 
-I build web applications that are **functional, clean and useful in real life**, mostly through
-client projects, freelance work and products that now run in production: **backend logic,
-dashboards, APIs and database design**.
-
-Lately that has meant **healthcare and AI tools**: scan quality control for hospital records, a
-speech-to-notes scribe for doctors, and AI-assisted drafting for legal teams. These ship with
+I'm a full-stack developer at **Global Matrix Solution**, based in 📍 **Meerut, India**. I build
+web apps that are **functional, clean and useful in real life**: backend logic, dashboards, APIs
+and database design. Lately I've been shipping **healthcare and AI tools** to production with
 Laravel, React, FastAPI and Docker.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abh1shxkk&label=visitors&color=7c5cff&style=flat-square" alt="Profile visitors">
+  <img src="https://img.shields.io/badge/based%20in-Meerut%2C%20IN-22d3ee?style=flat-square" alt="Based in Meerut, India">
+  <img src="https://img.shields.io/badge/status-shipping-34d399?style=flat-square" alt="Status: shipping">
+</p>
+
+☕ *Don't forget to commit your code and drink some water.* ☕
+
+<img align="right" width="300" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Moss from The IT Crowd calmly typing while a fire burns next to him">
+
+### ⚡ A few quick facts
+
+- 🔭 Currently building [**OPD Scan QC**](https://ipdscan.subharti.org/), quality control for scanned hospital records.
+- 🩺 Also shipped an **AI scribe** for doctors and an **AI co-drafting** tool for legal teams.
+- 🧐 Learning **React + Laravel integration**, **Docker deployments** and **FastAPI**.
+- 💬 Ask me about **Laravel, REST APIs, dashboards and getting things deployed**.
+- 🤝 Open to **freelance work and interesting projects**.
+- 📫 Reach me at [abhichauhan200504@gmail.com](mailto:abhichauhan200504@gmail.com).
+- 🎉 Fun fact: every animation on this page is hand-written SVG. No JavaScript allowed here.
+
+<br clear="right">
 
 ### ✦ Featured work
 
