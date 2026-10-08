@@ -12,7 +12,7 @@
 
 #### selected work
 
-|   |   |   |
+| project | what it does | status |
 |---|---|---|
 | [**OPD Scan QC**](https://ipdscan.subharti.org/) | quality control for scanned hospital records: OpenCV page checks, AI transcription, human review | `live` |
 | **OPD Scribe** | turns doctor and patient conversations in Indian languages into transcripts and SOAP notes | `production` |
