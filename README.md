@@ -66,13 +66,13 @@ Laravel, React, FastAPI and Docker.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,mysql,js,ts,react,tailwind,python,fastapi,docker&theme=dark&perline=10">
-    <img alt="Laravel, PHP, MySQL, JavaScript, TypeScript, React, Tailwind, Python, FastAPI, Docker" src="https://skillicons.dev/icons?i=laravel,php,mysql,js,ts,react,tailwind,python,fastapi,docker&theme=light&perline=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel%2Cphp%2Cmysql%2Cjs%2Cts%2Creact%2Ctailwind%2Cpython%2Cfastapi%2Cdocker&theme=dark&perline=10">
+    <img alt="Laravel, PHP, MySQL, JavaScript, TypeScript, React, Tailwind, Python, FastAPI, Docker" src="https://skillicons.dev/icons?i=laravel%2Cphp%2Cmysql%2Cjs%2Cts%2Creact%2Ctailwind%2Cpython%2Cfastapi%2Cdocker&theme=light&perline=10">
   </picture>
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,figma,nginx,redis,postgres&theme=dark&perline=10">
-    <img alt="Git, GitHub, Postman, Linux, VS Code, Figma, nginx, Redis, PostgreSQL" src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,figma,nginx,redis,postgres&theme=light&perline=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cpostman%2Clinux%2Cvscode%2Cfigma%2Cnginx%2Credis%2Cpostgres&theme=dark&perline=10">
+    <img alt="Git, GitHub, Postman, Linux, VS Code, Figma, nginx, Redis, PostgreSQL" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cpostman%2Clinux%2Cvscode%2Cfigma%2Cnginx%2Credis%2Cpostgres&theme=light&perline=10">
   </picture>
 </p>
 
@@ -109,12 +109,19 @@ Laravel, React, FastAPI and Docker.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=abh1shxkk&show_icons=true&theme=transparent&hide_border=true&title_color=7c5cff&icon_color=22d3ee&text_color=c9d1d9&count_private=true">
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abh1shxkk&show_icons=true&theme=transparent&hide_border=true&title_color=6d4aff&icon_color=0891b2&text_color=24292f&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abh1shxkk&show_icons=true&theme=transparent&hide_border=true&title_color=7c5cff&icon_color=22d3ee&text_color=c9d1d9">
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abh1shxkk&show_icons=true&theme=transparent&hide_border=true&title_color=6d4aff&icon_color=0891b2&text_color=24292f">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abh1shxkk&layout=compact&theme=transparent&hide_border=true&title_color=7c5cff&text_color=c9d1d9&langs_count=6">
-    <img height="170" alt="Top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abh1shxkk&layout=compact&theme=transparent&hide_border=true&title_color=6d4aff&text_color=24292f&langs_count=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abh1shxkk&layout=compact&theme=transparent&hide_border=true&title_color=7c5cff&text_color=c9d1d9&langs_count=6">
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abh1shxkk&layout=compact&theme=transparent&hide_border=true&title_color=6d4aff&text_color=24292f&langs_count=6">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abh1shxkk&theme=transparent&hide_border=true&ring=7c5cff&fire=22d3ee&currStreakLabel=7c5cff&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=30363d">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=abh1shxkk&theme=transparent&hide_border=true&ring=6d4aff&fire=0891b2&currStreakLabel=6d4aff&sideLabels=24292f&currStreakNum=1f2328&sideNums=1f2328&dates=59636e&stroke=d0d7de">
   </picture>
 </p>
 
