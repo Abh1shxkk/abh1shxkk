@@ -12,12 +12,16 @@
 
 #### selected work
 
-| project | what it does | status |
+| project | what it does | live |
 |---|---|---|
-| [**OPD Scan QC**](https://ipdscan.subharti.org/) | quality control for scanned hospital records: OpenCV page checks, AI transcription, human review | `live` |
-| **OPD Scribe** | turns doctor and patient conversations in Indian languages into transcripts and SOAP notes | `production` |
-| **ILMS** | legal case management: matters, notices, contracts and RTI, with AI co-drafting | `production` |
-| [**Medi BillSuite**](https://proseoaudittool.com/medi/) | pharma distribution ERP: GST invoicing, batch and expiry tracking, 50+ reports | `live` |
+| **OPD Scan QC** | quality control for scanned hospital records: OpenCV page checks, AI transcription, human review | [ipdscan.subharti.org](https://ipdscan.subharti.org/) |
+| **OPD Scribe** | turns doctor and patient conversations in Indian languages into transcripts and SOAP notes | [opd-scribe](https://opd-scribe.54-173-64-109.sslip.io) |
+| **ILMS** | legal case management: matters, notices, contracts and RTI, with AI co-drafting | [ilms](https://ilms.54-173-64-109.sslip.io) |
+| **Medi BillSuite** | pharma distribution ERP: GST invoicing, batch and expiry tracking, 50+ reports | [medi](https://proseoaudittool.com/medi/) |
+| **Skills360** | job platform where users post and apply for jobs, with user and admin dashboards | [skills360.ai](https://www.skills360.ai/) |
+| **DelWell** | mindful dating platform: self-discovery quizzes, compatibility scoring, personalised matching | [hellodelwell.com](https://hellodelwell.com/) |
+| **DolceVitale** | WooCommerce store for premium wellness products | [dolcevitale.com](https://dolcevitale.com/) |
+| **Kairo Global** | custom WordPress site for an immigration services company | [kairoglobal.co.in](https://kairoglobal.co.in/) |
 
 #### last year, one dot per day
 

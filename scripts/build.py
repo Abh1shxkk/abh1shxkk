@@ -87,16 +87,18 @@ def card(t: dict, u: dict) -> str:
         ("rule",),
         ("kv", "OS", "Windows 11, Ubuntu on the servers"),
         ("kv", "Uptime", uptime(since, today)),
-        ("kv", "Host", "Global Matrix Solution"),
-        ("kv", "Kernel", "Full-stack developer"),
+        ("kv", "Host", "Subharti University, IT Dept"),
+        ("kv", "Kernel", "Junior PHP Developer"),
+        ("kv", "Previous", "Global Matrix Solution, 2025-26"),
         ("kv", "IDE", "VS Code"),
         ("gap",),
         ("kv", "Languages.Code", "PHP, TypeScript, JS, Python"),
-        ("kv", "Languages.Stack", "Laravel, React, FastAPI, Tailwind"),
-        ("kv", "Infra", "Docker, nginx, Postgres, Redis"),
+        ("kv", "Languages.Stack", "Laravel, Vue, Angular, React"),
+        ("kv", "Languages.Real", "Hindi, English"),
+        ("kv", "Infra", "Docker, cPanel, nginx, Postgres"),
         ("gap",),
-        ("kv", "Now", "OPD Scan QC, hospital scan QC"),
-        ("kv", "Shipped", "AI scribe, legal co-drafting, pharma ERP"),
+        ("kv", "Now", "University ERP, 100+ college sites"),
+        ("kv", "Shipped", "OPD Scan QC, OPD Scribe, ILMS"),
         ("kv", "Learning", "React + Laravel, deployments"),
         ("head", "Contact"),
         ("kv", "Email", "abhichauhan200504@gmail.com"),
@@ -139,7 +141,7 @@ def card(t: dict, u: dict) -> str:
         lines.append(f'<text x="{x0}" y="{y}" class="ln" style="{delay}" xml:space="preserve">{body}</text>')
 
     last_y = y0 + (len(rows) - 1) * lh
-    px, lx, ly = 20, 80, 120
+    px, lx, ly = 20, 80, 160
     faint, acc = t["faint"], t["acc"]
     order = [(r, c) for r, row in enumerate(LOGO) for c, ch in enumerate(row) if ch == "#"]
     logo = "".join(
@@ -150,7 +152,7 @@ def card(t: dict, u: dict) -> str:
         f'style="animation-delay:{0.3 + ((r * 7 + c * 13) % 23) * 0.03:.2f}s" fill="{acc}"/>'
         for r, c in order)
     h = last_y + 40
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="985" height="{h}" viewBox="0 0 985 {h}" font-family="{MONO}" font-size="15" role="img" aria-label="abhishek@meerut: full-stack developer, Laravel, React, FastAPI">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="985" height="{h}" viewBox="0 0 985 {h}" font-family="{MONO}" font-size="15" role="img" aria-label="abhishek@meerut: Junior PHP Developer at Subharti University, Laravel, Vue, Angular, React">
 <style>
 .k{{fill:{t['fg']}}} .d{{fill:{t['faint']}}} .v{{fill:{t['fg']}}} .m{{fill:{t['mute']}}} .a{{fill:{t['acc']};font-weight:700}}
 .px{{opacity:0;animation:fade .25s ease-out forwards}}
@@ -163,7 +165,7 @@ def card(t: dict, u: dict) -> str:
 </style>
 <rect width="985" height="{h}" rx="12" fill="{t['bg']}" stroke="{t['faint']}"/>
 {logo}
-<text x="80" y="290" class="m" font-size="13" xml:space="preserve">building useful things, daily</text>
+<text x="80" y="330" class="m" font-size="13" xml:space="preserve">building useful things, daily</text>
 {''.join(lines)}
 <rect class="cur" x="{x0}" y="{last_y + 8}" width="9" height="16" fill="{t['acc']}"/>
 </svg>"""
