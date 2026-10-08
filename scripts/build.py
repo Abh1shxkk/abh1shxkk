@@ -93,7 +93,7 @@ def card(t: dict, u: dict) -> str:
         ("kv", "IDE", "VS Code"),
         ("gap",),
         ("kv", "Languages.Code", "PHP, TypeScript, JS, Python"),
-        ("kv", "Languages.Stack", "Laravel, Vue, Angular, React"),
+        ("kv", "Languages.Stack", "Laravel, Node.js, Vue, React"),
         ("kv", "Languages.Real", "Hindi, English"),
         ("kv", "Infra", "Docker, cPanel, nginx, Postgres"),
         ("gap",),
