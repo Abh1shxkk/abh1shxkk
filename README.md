@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="abhishek@meerut: full-stack developer at Global Matrix Solution. Laravel, React, FastAPI, Docker." src="assets/card-light.svg" width="100%">
+  <img alt="abhishek@meerut: full-stack developer at Global Matrix Solution. PHP, Laravel(11, 12, 13), Reactjs, Angularjs, Nodejs, Expressjs, FastAPI, Docker, AWS Azure, Google Cloud Console, Hostinger Hpanel, Cpanel, Server Deployment, Linux, Github CI/CD Pipelines setup with the server." src="assets/card-light.svg" width="100%">
 </picture>
 
 <p>
