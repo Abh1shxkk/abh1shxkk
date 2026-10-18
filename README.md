@@ -1,30 +1,33 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="abhishek@meerut: full-stack developer at Global Matrix Solution. PHP, Laravel(11, 12, 13), Reactjs, Angularjs, Nodejs, Expressjs, FastAPI, Docker, AWS Azure, Google Cloud Console, Hostinger Hpanel, Cpanel, Server Deployment, Linux, Github CI/CD Pipelines setup with the server." src="assets/card-light.svg" width="100%">
+  <img alt="abhishek@meerut: web developer and designer in Meerut, India, taking freelance projects. Websites, web apps and AI tools in React, Next.js, Laravel, Node.js, WordPress and Python. abhishekdev.online" src="assets/card-light.svg" width="100%">
 </picture>
 
 <p>
-  <a href="https://portfolio-frontend-sigma-jade.vercel.app/">portfolio</a> ·
+  <a href="https://abhishekdev.online"><b>abhishekdev.online</b></a> ·
+  <a href="https://abhishekdev.online/services">services &amp; prices</a> ·
+  <a href="https://abhishekdev.online/contact">start a project</a> ·
+  <a href="https://abhishekdev.online/blog">blog</a> ·
   <a href="https://linkedin.com/in/abhishek-chauhan-880496394">linkedin</a> ·
-  <a href="https://x.com/abh1shxkk">x</a> ·
   <a href="mailto:abhichauhan200504@gmail.com">email</a>
 </p>
 
+Web developer and designer in **Meerut, India**. I design and build websites, web apps and AI tools for businesses, and look after them once they are live. Taking freelance projects: in person around Meerut, online anywhere.
+
 #### selected work
 
-| project | what it does | live | code |
+| project | what it is | live | notes |
 |---|---|---|---|
-| **OPD Scan QC** | quality control for scanned hospital records: OpenCV page checks, AI transcription, human review | [ipdscan.subharti.org](https://ipdscan.subharti.org/) | private |
-| **OPD Scribe** | turns doctor and patient conversations in Indian languages into transcripts and SOAP notes | [opd-scribe](https://opd-scribe.54-173-64-109.sslip.io) | private |
-| **ILMS** | legal case management: matters, notices, contracts and RTI, with AI co-drafting | [ilms](https://ilms.54-173-64-109.sslip.io) | private |
-| **Medi BillSuite** | pharma distribution ERP: GST invoicing, batch and expiry tracking, 50+ reports | [medi](https://proseoaudittool.com/medi/) | private |
-| **Skills360** | job platform where users post and apply for jobs, with user and admin dashboards | [skills360.ai](https://www.skills360.ai/) | private |
-| **DelWell** | mindful dating platform: self-discovery quizzes, compatibility scoring, personalised matching | [hellodelwell.com](https://hellodelwell.com/) | private |
-| **DolceVitale** | WooCommerce store for premium wellness products | [dolcevitale.com](https://dolcevitale.com/) | private |
-| **Kairo Global** | custom WordPress site for an immigration services company | [kairoglobal.co.in](https://kairoglobal.co.in/) | private |
-| **Dotify** | Gmail dot-variation generator for filtering and tracking signups | [dotify-one.vercel.app](https://dotify-one.vercel.app) | [repo](https://github.com/Abh1shxkk/dotify) |
-| **InvoicePro** | invoicing, expenses and PDF export with roles and a REST API | | [repo](https://github.com/Abh1shxkk/invoiceprowebapp) |
-| **Portfolio** | React + Laravel portfolio with an admin dashboard | [onrender](https://abhishek-portfolio-kfdk.onrender.com) | [repo](https://github.com/Abh1shxkk/abhishek-portfolio) |
+| **ThisBrand** | branding agency website, a Figma design built as a custom WordPress theme | [thisbrand.in](https://thisbrand.in/) | [build notes](https://abhishekdev.online/blog/thisbrand-figma-to-wordpress-theme) |
+| **AiSuites** | SaaS marketing site and sign-up flow for an AI platform, WordPress + Tailwind | [aisuites.ai](https://www.aisuites.ai/) | [build notes](https://abhishekdev.online/blog/aisuites-saas-marketing-site-wordpress-tailwind) |
+| **OutRight Systems** | CRM company site with Google/Microsoft sign-in and free tools | [outrightsystems.org](https://www.outrightsystems.org/) | [build notes](https://abhishekdev.online/blog/outright-systems-wordpress-oauth-and-free-tools) |
+| **SVSU Knowledge Assistant** | answers from scanned Hindi/English circulars with citations, web + Android | [demo](https://svsu.54-173-64-109.sslip.io) | [repo](https://github.com/Abh1shxkk/svsu-knowledge-assistant) · [notes](https://abhishekdev.online/blog/rag-assistant-for-scanned-hindi-circulars) |
+| **OPD Scan QC** | OpenCV quality control for scanned hospital records, with human review | [ipdscan.subharti.org](https://ipdscan.subharti.org/) | [build notes](https://abhishekdev.online/blog/opd-scan-qc-opencv-hospital-records) |
+| **OPD Scribe** | AI scribe for consultations in Hindi, Hinglish and other Indian languages | [demo](https://opd-scribe.54-173-64-109.sslip.io) | [build notes](https://abhishekdev.online/blog/opd-scribe-ai-scribe-hindi-consultations) |
+| **ILMS** | legal management: 168 workflow stages, live co-drafting, maker-checker | [demo](https://ilms.54-173-64-109.sslip.io) | [build notes](https://abhishekdev.online/blog/ilms-legal-management-system-live-co-drafting) |
+| **This portfolio** | a Three.js road you drive by scrolling, pre-rendered for Google | [abhishekdev.online](https://abhishekdev.online) | [repo](https://github.com/Abh1shxkk/abhishek_portfolio) · [notes](https://abhishekdev.online/blog/how-i-built-this-portfolio-three-js-road) |
+
+More client sites and side projects: [abhishekdev.online/projects](https://abhishekdev.online/projects)
 
 #### last year, one dot per day
 

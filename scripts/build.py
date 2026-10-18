@@ -153,7 +153,7 @@ def card(t: dict, u: dict) -> str:
         f'style="animation-delay:{0.3 + ((r * 7 + c * 13) % 23) * 0.03:.2f}s" fill="{acc}"/>'
         for r, c in order)
     h = last_y + 40
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="985" height="{h}" viewBox="0 0 985 {h}" font-family="{MONO}" font-size="15" role="img" aria-label="abhishek@meerut: Junior PHP Developer at Subharti University, Laravel, Vue, Angular, React">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="985" height="{h}" viewBox="0 0 985 {h}" font-family="{MONO}" font-size="15" role="img" aria-label="abhishek@meerut: web developer and designer in Meerut, taking freelance projects. abhishekdev.online">
 <style>
 .k{{fill:{t['fg']}}} .d{{fill:{t['faint']}}} .v{{fill:{t['fg']}}} .m{{fill:{t['mute']}}} .a{{fill:{t['acc']};font-weight:700}}
 .px{{opacity:0;animation:fade .25s ease-out forwards}}
