@@ -1,18 +1,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="abhishek@meerut: web developer and designer in Meerut, India, taking freelance projects. Websites, web apps and AI tools in React, Next.js, Laravel, Node.js, WordPress and Python. abhishekdev.online" src="assets/card-light.svg" width="100%">
+  <img alt="abhishek@meerut: web developer and designer in Meerut, India. Websites, web apps and AI tools in React, Next.js, Laravel, Node.js, WordPress and Python. abhishekdev.online" src="assets/card-light.svg" width="100%">
 </picture>
 
 <p>
   <a href="https://abhishekdev.online"><b>abhishekdev.online</b></a> ·
-  <a href="https://abhishekdev.online/services">services &amp; prices</a> ·
-  <a href="https://abhishekdev.online/contact">start a project</a> ·
   <a href="https://abhishekdev.online/blog">blog</a> ·
   <a href="https://linkedin.com/in/abhishek-chauhan-880496394">linkedin</a> ·
   <a href="mailto:abhichauhan200504@gmail.com">email</a>
 </p>
 
-Web developer and designer in **Meerut, India**. I design and build websites, web apps and AI tools for businesses, and look after them once they are live. Taking freelance projects: in person around Meerut, online anywhere.
+Web developer and designer in **Meerut, India**. I design and build websites, web apps and AI tools for businesses, and look after them once they are live.
 
 #### selected work
 
