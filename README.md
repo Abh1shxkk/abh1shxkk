@@ -19,7 +19,7 @@ Web developer and designer in **Meerut, India**. I design and build websites, we
 | **ThisBrand** | branding agency website, a Figma design built as a custom WordPress theme | [thisbrand.in](https://thisbrand.in/) | [build notes](https://abhishekdev.online/blog/thisbrand-figma-to-wordpress-theme) |
 | **AiSuites** | SaaS marketing site and sign-up flow for an AI platform, WordPress + Tailwind | [aisuites.ai](https://www.aisuites.ai/) | [build notes](https://abhishekdev.online/blog/aisuites-saas-marketing-site-wordpress-tailwind) |
 | **OutRight Systems** | CRM company site with Google/Microsoft sign-in and free tools | [outrightsystems.org](https://www.outrightsystems.org/) | [build notes](https://abhishekdev.online/blog/outright-systems-wordpress-oauth-and-free-tools) |
-| **This portfolio** | a Three.js road you drive by scrolling, pre-rendered for Google | [abhishekdev.online](https://abhishekdev.online) | [repo](https://github.com/Abh1shxkk/abhishek_portfolio) · [notes](https://abhishekdev.online/blog/how-i-built-this-portfolio-three-js-road) |
+| **This portfolio** | a Three.js road you drive by scrolling, pre-rendered for Google | [abhishekdev.online](https://abhishekdev.online) | [notes](https://abhishekdev.online/blog/how-i-built-this-portfolio-three-js-road) |
 
 More client sites and side projects: [abhishekdev.online/projects](https://abhishekdev.online/projects)
 
